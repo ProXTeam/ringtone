@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://proxteam.github.io/privacy.htm">Privacy</a><br><a href="https://proxteam.github.io/term">Term of service</a>
+    description                           : <a href="https://proxteam.github.io/ringtone/privacy.htm">Privacy</a><br><a href="https://proxteam.github.io/term">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
