@@ -12,9 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ringtones Maker                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Are you bored by the default ringtones you have on your iPhone?
-                                            You are looking for unique cell phone ringtones with your own style
-                                            With best ringtone maker you can create and custom new ringtone for your self
+app_description                           : You are looking for unique cell phone ringtones with your own style.
+                                            With best ringtone maker you can create and custom new ringtone for your self.
                                             This application is a free that enables you to cut mp3 and other audio files and make ringtones on your iPhone device fast and easy.
 
 
@@ -40,10 +39,10 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Discover  
-    description                           : The most popular ringtones
+    description                           : The most popular ringtones with more than 18 category
     fontawesome_icon_name                 : magic
 
-  - title                                 : Ringtone Maker
+  - title                                 : Ringtone from library
     description                           : Scan music stored in your phone and various audio files, music editing and clipping
     fontawesome_icon_name                 : calendar-check
 
